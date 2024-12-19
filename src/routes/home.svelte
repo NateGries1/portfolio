@@ -11,7 +11,7 @@
 			</p>
 		</div>
 		<div class="img-container">
-			<img src="nate.webp" alt="Avatar of Nate Gries" />
+			<img src="image.jpg" alt="Avatar of Nate Gries" />
 		</div>
 	</div>
 </section>
