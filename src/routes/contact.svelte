@@ -1,6 +1,6 @@
 <section class="container">
 	<div class="contact-form-container">
-		<h2 class="title">Contact Us</h2>
+		<h2 class="title">Contact Me</h2>
 		<form
 			action="https://formspree.io/f/mkgnlddz"
 			method="POST"

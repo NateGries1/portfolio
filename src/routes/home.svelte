@@ -24,7 +24,7 @@
 		align-items: center;
 		height: 100vh;
 		margin: 0 auto;
-		background-image: url('background.png');
+		background-image: url('/background.png');
 	}
 
 	.content {

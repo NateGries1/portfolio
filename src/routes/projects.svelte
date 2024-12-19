@@ -159,15 +159,4 @@
 			grid-template-columns: 1fr;
 		}
 	}
-
-	@media (max-width: 768px) {
-		/* .project {
-			width: 300px;
-			height: 300px;
-		} */
-
-		.header {
-			font-size: 50px;
-		}
-	}
 </style>
