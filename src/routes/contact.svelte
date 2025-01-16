@@ -15,7 +15,7 @@
 			</div>
 			<div class="form-group">
 				<label for="message">Your Message:</label>
-				<textarea id="message" name="message" placeholder="Help, I shit my pants!" rows="5" required
+				<textarea id="message" name="message" placeholder="Write message here" rows="5" required
 				></textarea>
 				<span class="error-message" id="messageError"></span>
 			</div>
