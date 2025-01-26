@@ -23,8 +23,11 @@
 		justify-content: center;
 		align-items: center;
 		height: 100vh;
-		margin: 0 auto;
+		width: 100%;
+		margin: 0;
 		background-image: url('/background.png');
+		background-size: cover;
+		background-repeat: no-repeat;
 	}
 
 	.content {
